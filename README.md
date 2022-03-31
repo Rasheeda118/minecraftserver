@@ -1,2 +1,2 @@
 # minecraftserver
-minecraft containee Techtalk docker series 10
+minecraft container Techtalk docker series 10
